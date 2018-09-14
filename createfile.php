@@ -27,6 +27,6 @@ $result = $client->putObject(array(
 
 //HTML to create our webpage
 echo "<h2 align=\"center\">File - $key has been successfully uploaded to $bucket</h2>";
-echo "<div align = \"center\"><img src=\"https://acloud.guru/images/logo-small-optimised.png\"></img></div>";
+echo "<div align = \"center\"><img src=\"https://iihtsrt.com/wp-content/uploads/2017/12/logo1.png\"></img></div>";
 echo "<div align = \"center\"><a href=\"readfile.php?bucket=$bucket&key=$key\">Click Here To Read Your File</a></div>";
 ?>
